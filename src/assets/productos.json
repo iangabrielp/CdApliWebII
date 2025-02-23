@@ -1,0 +1,8 @@
+[
+    {"nombre": "Apple Vision","precio": 10, "stock": 20,"imagen":"https://images.pexels.com/photos/3405456/pexels-photo-3405456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},
+    {"nombre": "Apple Watch","precio": 30, "stock": 21,"imagen":"https://flowbite.com/docs/images/products/apple-watch.png"},
+    {"nombre": "iMac 27","precio": 20, "stock": 18,"imagen":"https://flowbite.com/docs/images/products/imac.png"},
+    {"nombre": "iPhone 12","precio": 5, "stock": 24,"imagen":"https://flowbite.com/docs/images/products/iphone-12.png"},
+    {"nombre": "PSP","precio": 100, "stock": 15,"imagen":"https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=600"},
+    {"nombre": "Laptop","precio": 200, "stock": 12,"imagen":"https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=600"}
+]
